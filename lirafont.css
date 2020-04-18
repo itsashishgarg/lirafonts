@@ -1,0 +1,30 @@
+
+@font-face {
+    src: url(./fonts/DFLiSongMedium1B.ttf);
+    font-family: Stuyvesant;
+}
+
+@font-face {
+    src: url(./fonts/DFLiSongMedium1B.ttf);
+    font-family: dlfisong;
+}
+@font-face {
+    src: url(./fonts/SnellBoldBT.ttf);
+    font-family: snellbold;
+}
+
+.joker{
+    font-family: Stuyvesant;
+    font-size: 106px;    
+}
+
+.jack{
+    font-family: dlfisong;
+    font-size: 56px;    
+}
+
+.king{
+    font-family: snellbold;
+    font-size: 56px;    
+}
+

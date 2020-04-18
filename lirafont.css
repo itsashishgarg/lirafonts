@@ -1,15 +1,15 @@
 
 @font-face {
-    src: url(./fonts/StuyvesantBT.ttf);
+    src: url(./fonts/lirast.ttf);
     font-family: Stuyvesant;
 }
 
 @font-face {
-    src: url(./fonts/DFLiSongMedium1B.ttf);
+    src: url(./fonts/liradf.ttf);
     font-family: dlfisong;
 }
 @font-face {
-    src: url(./fonts/SnellBoldBT.ttf);
+    src: url(./fonts/lirasn.ttf);
     font-family: snellbold;
 }
 

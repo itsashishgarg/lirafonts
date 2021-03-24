@@ -1,0 +1,21 @@
+@font-face {
+    src: url(./fonts/lirast.ttf) format('truetype');
+    font-family: Stuyvesant;
+}
+
+
+@font-face {
+    src: url(./fonts/lirasn.ttf) format('truetype');
+    font-family: snellbold;
+}
+
+.stuy{
+    font-family: Stuyvesant;
+    font-size: 106px;    
+}
+
+
+.snell{
+    font-family: snellbold;
+    font-size: 56px;    
+}

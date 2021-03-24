@@ -9,6 +9,13 @@
     font-family: snellbold;
 }
 
+
+@font-face {
+    src: url(./fonts/fireflysung.ttf) format('truetype');
+    font-family: firefly;
+}
+
+
 .stuy{
     font-family: Stuyvesant;
     font-size: 106px;    
@@ -19,3 +26,11 @@
     font-family: snellbold;
     font-size: 56px;    
 }
+
+
+.firef{
+    font-family: firefly;
+    font-size: 56px;    
+}
+
+

@@ -6,7 +6,7 @@
 
 @font-face {
     src: url(./fonts/liradf.ttf) format('truetype');
-    font-family: dlfisong;
+    font-family: DFLiSongMedium1B;
 }
 @font-face {
     src: url(./fonts/lirasn.ttf) format('truetype');
@@ -19,7 +19,7 @@
 }
 
 .dlfi{
-    font-family: dlfisong;
+    font-family: DFLiSongMedium1B;
     font-size: 56px;    
 }
 

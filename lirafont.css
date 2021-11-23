@@ -12,6 +12,14 @@
     src: url(./fonts/lirasn.ttf) format('truetype');
     font-family: snellbold;
 }
+@font-face {
+    src: url(./fonts/AdobeMingStd-Light.otf) format('truetype');
+    font-family: AdobeMingStdL;
+}
+@font-face {
+    src: url(./fonts/adobemyungjostd-medium.otf) format('truetype');
+    font-family: adobemyungjostdmedium;
+}
 
 .stuy{
     font-family: Stuyvesant;
@@ -25,6 +33,15 @@
 
 .snell{
     font-family: snellbold;
+    font-size: 56px;    
+}
+
+.AdobeMingStdL{
+    font-family: AdobeMingStdL;
+    font-size: 56px;    
+}
+.adobemyungjostdmedium{
+    font-family: adobemyungjostdmedium;
     font-size: 56px;    
 }
 

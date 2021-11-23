@@ -1,0 +1,56 @@
+@font-face {
+    src: url(./fonts/lirast.ttf) format('truetype');
+    font-family: Stuyvesant;
+}
+
+@font-face {
+    src: url(./fonts/liradf.ttf) format('truetype');
+    font-family: DFLiSongMedium1B;
+}
+@font-face {
+    src: url(./fonts/lirasn.ttf) format('truetype');
+    font-family: snellbold;
+}
+@font-face {
+    src: url(./fonts/AdobeMingStd-Light.otf) format('truetype');
+    font-family: AdobeMingStdL;
+}
+@font-face {
+    src: url(./fonts/adobemyungjostd-medium.otf) format('truetype');
+    font-family: adobemyungjostdmedium;
+}
+@font-face {
+    src: url(./fonts/msmincho0.z);
+    font-family: msmincho;
+}
+
+.stuy{
+    font-family: Stuyvesant;
+    font-size: 106px;    
+}
+
+.dlfi{
+    font-family: DFLiSongMedium1B;
+    font-size: 56px;    
+}
+
+.snell{
+    font-family: snellbold;
+    font-size: 56px;    
+}
+
+.AdobeMingStdL{
+    font-family: AdobeMingStdL;
+    font-size: 56px;    
+}
+.adobemyungjostdmedium{
+    font-family: adobemyungjostdmedium;
+    font-size: 56px;    
+}
+
+.msmincho{
+    font-family: msmincho;
+    font-size: 56px;    
+}
+
+

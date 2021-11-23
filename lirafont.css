@@ -20,6 +20,10 @@
     src: url(./fonts/adobemyungjostd-medium.otf) format('truetype');
     font-family: adobemyungjostdmedium;
 }
+@font-face {
+    src: url(./fonts/arial-unicode-ms.ttf) format('truetype');
+    font-family: arialunicodems;
+}
 
 .stuy{
     font-family: Stuyvesant;
@@ -42,6 +46,10 @@
 }
 .adobemyungjostdmedium{
     font-family: adobemyungjostdmedium;
+    font-size: 56px;    
+}
+.arialunicodems{
+    font-family: arialunicodems;
     font-size: 56px;    
 }
 
